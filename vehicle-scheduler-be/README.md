@@ -170,15 +170,12 @@ The application handles common scenarios such as:
 
 ### Logging Middleware Output
 
-```md
 ![Logger Response](public/images/logger-response.jpeg)
-```
+
 
 ### Vehicle Scheduler Response
 
-```md
 ![Vehicle Scheduler Response](public/images/vehicle-schedule-response.jpeg)
-```
 
 ---
 
