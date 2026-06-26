@@ -170,16 +170,14 @@ The application handles common scenarios such as:
 
 ### Logging Middleware Output
 
-> Replace the path if your images are stored in a different location.
-
 ```md
-![Logging Middleware](../public/images/logger-response.jpeg)
+![Logging Middleware](public/images/logger-response.jpeg)
 ```
 
 ### Vehicle Scheduler Response
 
 ```md
-![Vehicle Scheduler](../public/images/vehicle-schedule-response.jpeg)
+![Vehicle Scheduler](public/images/vehicle-schedule-response.jpeg)
 ```
 
 ---
